@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/leet-pdf/static/css/main.1a81d260.chunk.css",
-    "main.js": "/leet-pdf/static/js/main.c07b1be0.chunk.js",
-    "main.js.map": "/leet-pdf/static/js/main.c07b1be0.chunk.js.map",
+    "main.js": "/leet-pdf/static/js/main.27b157f2.chunk.js",
+    "main.js.map": "/leet-pdf/static/js/main.27b157f2.chunk.js.map",
     "runtime-main.js": "/leet-pdf/static/js/runtime-main.b5bbb3dd.js",
     "runtime-main.js.map": "/leet-pdf/static/js/runtime-main.b5bbb3dd.js.map",
-    "static/js/2.504968b8.chunk.js": "/leet-pdf/static/js/2.504968b8.chunk.js",
-    "static/js/2.504968b8.chunk.js.map": "/leet-pdf/static/js/2.504968b8.chunk.js.map",
+    "static/js/2.3a0bab50.chunk.js": "/leet-pdf/static/js/2.3a0bab50.chunk.js",
+    "static/js/2.3a0bab50.chunk.js.map": "/leet-pdf/static/js/2.3a0bab50.chunk.js.map",
     "index.html": "/leet-pdf/index.html",
     "static/css/main.1a81d260.chunk.css.map": "/leet-pdf/static/css/main.1a81d260.chunk.css.map",
-    "static/js/2.504968b8.chunk.js.LICENSE.txt": "/leet-pdf/static/js/2.504968b8.chunk.js.LICENSE.txt",
+    "static/js/2.3a0bab50.chunk.js.LICENSE.txt": "/leet-pdf/static/js/2.3a0bab50.chunk.js.LICENSE.txt",
     "static/media/nameChange.a14084af.jpg": "/leet-pdf/static/media/nameChange.a14084af.jpg",
     "static/media/passport.ca546bbd.jpg": "/leet-pdf/static/media/passport.ca546bbd.jpg",
     "static/media/voter.f83f924a.jpg": "/leet-pdf/static/media/voter.f83f924a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b5bbb3dd.js",
-    "static/js/2.504968b8.chunk.js",
+    "static/js/2.3a0bab50.chunk.js",
     "static/css/main.1a81d260.chunk.css",
-    "static/js/main.c07b1be0.chunk.js"
+    "static/js/main.27b157f2.chunk.js"
   ]
 }
