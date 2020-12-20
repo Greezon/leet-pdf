@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a81d260.chunk.css",
-    "main.js": "/static/js/main.3f718b34.chunk.js",
-    "main.js.map": "/static/js/main.3f718b34.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7d027fb5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7d027fb5.js.map",
-    "static/js/2.bba3a9d9.chunk.js": "/static/js/2.bba3a9d9.chunk.js",
-    "static/js/2.bba3a9d9.chunk.js.map": "/static/js/2.bba3a9d9.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.1a81d260.chunk.css.map": "/static/css/main.1a81d260.chunk.css.map",
-    "static/js/2.bba3a9d9.chunk.js.LICENSE.txt": "/static/js/2.bba3a9d9.chunk.js.LICENSE.txt",
-    "static/media/nameChange.a14084af.jpg": "/static/media/nameChange.a14084af.jpg",
-    "static/media/passport.ca546bbd.jpg": "/static/media/passport.ca546bbd.jpg",
-    "static/media/voter.f83f924a.jpg": "/static/media/voter.f83f924a.jpg"
+    "main.css": "/leet-pdf/static/css/main.1a81d260.chunk.css",
+    "main.js": "/leet-pdf/static/js/main.3f718b34.chunk.js",
+    "main.js.map": "/leet-pdf/static/js/main.3f718b34.chunk.js.map",
+    "runtime-main.js": "/leet-pdf/static/js/runtime-main.b5bbb3dd.js",
+    "runtime-main.js.map": "/leet-pdf/static/js/runtime-main.b5bbb3dd.js.map",
+    "static/js/2.bba3a9d9.chunk.js": "/leet-pdf/static/js/2.bba3a9d9.chunk.js",
+    "static/js/2.bba3a9d9.chunk.js.map": "/leet-pdf/static/js/2.bba3a9d9.chunk.js.map",
+    "index.html": "/leet-pdf/index.html",
+    "static/css/main.1a81d260.chunk.css.map": "/leet-pdf/static/css/main.1a81d260.chunk.css.map",
+    "static/js/2.bba3a9d9.chunk.js.LICENSE.txt": "/leet-pdf/static/js/2.bba3a9d9.chunk.js.LICENSE.txt",
+    "static/media/nameChange.a14084af.jpg": "/leet-pdf/static/media/nameChange.a14084af.jpg",
+    "static/media/passport.ca546bbd.jpg": "/leet-pdf/static/media/passport.ca546bbd.jpg",
+    "static/media/voter.f83f924a.jpg": "/leet-pdf/static/media/voter.f83f924a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7d027fb5.js",
+    "static/js/runtime-main.b5bbb3dd.js",
     "static/js/2.bba3a9d9.chunk.js",
     "static/css/main.1a81d260.chunk.css",
     "static/js/main.3f718b34.chunk.js"
